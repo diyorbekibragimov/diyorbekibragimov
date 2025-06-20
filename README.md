@@ -9,7 +9,7 @@ I have:
 - Researched **Edge AI** and **Federated Learning** for model training and inference on edge.
 - Built full-stack platforms with **Django**, **TypeScript**, and **React Native**
 
-Open to **research collaborations**—feel free to reach out:  
+Open to **research collaborations**. Feel free to reach out:  
 📧 dibragim [at] cmu.edu | [LinkedIn](https://www.linkedin.com/in/diyorbek-ibragimov/)
 
 > “But do you know when stories stop being stories? The moment someone begins to believe in them.” — *Witcher*
