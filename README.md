@@ -10,7 +10,7 @@ I have:
 - Built full-stack platforms with **Django**, **TypeScript**, and **React Native**
 
 Open to **research collaborations**. Feel free to reach out:  
-📧 dibragim [at] cmu.edu | [LinkedIn](https://www.linkedin.com/in/diyorbek-ibragimov/)
+📧 ibragimov [at] cmu.edu | [LinkedIn](https://www.linkedin.com/in/diyorbek-ibragimov/)
 
 > “But do you know when stories stop being stories? The moment someone begins to believe in them.” — *Witcher*
 
