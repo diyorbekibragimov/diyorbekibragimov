@@ -2,13 +2,6 @@
 
 My name is Diyorbek Ibragimov. I am a third-year CS student at Carnegie Mellon University. I am passionate about **Computer Systems**.
 
-I am currently building a system for **distributed ML model allocation and inference scheduling** across IoT devices.
-
-I have:
-- Deployed a GitHub triage model with IBM + RedHat for the **OpenJ9** project  
-- Researched **Edge AI** and **Federated Learning** for model training and inference on edge.
-- Built full-stack platforms with **Django**, **TypeScript**, and **React Native**
-
 Open to **research collaborations**. Feel free to reach out:  
 📧 ibragimov [at] cmu.edu | [LinkedIn](https://www.linkedin.com/in/diyorbek-ibragimov/)
 
