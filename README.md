@@ -5,4 +5,4 @@ My name is Diyorbek Ibragimov. I am a senior CS student at Carnegie Mellon Unive
 Open to **research collaborations**. Feel free to reach out:  
 📧 ibragimov [at] cmu.edu | [LinkedIn](https://www.linkedin.com/in/diyorbek-ibragimov/)
 
-> “Lambert, Lambert - what a prick.” — *Witcher*
+> “Lambert, Lambert - what a...” — *Witcher*
